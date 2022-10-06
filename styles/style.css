@@ -1,0 +1,157 @@
+.alcohol {
+  width: 100%;
+}
+.alcohol .alcohol__nav {
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 50px;
+}
+
+.alcohol .alcohol-banner {
+  height: 800px;
+  margin: 0 auto;
+  background-color: #996b60;
+}
+.alcohol .alcohol-banner .alcohol-banner-left {
+  width: 50%;
+  height: 800px;
+  display: inline-block;
+}
+.alcohol .alcohol-banner .alcohol-banner-left .alcohol-banner-left__image {
+  position: relative;
+}
+.alcohol .alcohol-banner .alcohol-banner-left .alcohol-banner-left__nav1 {
+  position: absolute;
+  text-transform: uppercase;
+  color: #c9c9c9;
+  bottom: 81%;
+  left: 5%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.alcohol .alcohol-banner .alcohol-banner-left .alcohol-banner-left__nav2 {
+  position: absolute;
+  bottom: 81%;
+  left: 10%;
+  text-transform: uppercase;
+  color: #c9c9c9;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.alcohol .alcohol-banner .alcohol-banner-left .alcohol-banner-left__nav3 {
+  position: absolute;
+  bottom: 81%;
+  left: 20%;
+  text-transform: uppercase;
+  color: #c9c9c9;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.alcohol .alcohol-banner .alcohol-banner-right {
+  width: 49%;
+  height: 800px;
+  display: inline-block;
+  background-color: #996b60;
+  vertical-align: top;
+}
+.alcohol .alcohol-banner .alcohol-banner-right .alcohol-banner-right__nav1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  display: inline-block;
+  padding-top: 40px;
+  margin-left: 300px;
+}
+
+.alcohol .alcohol-banner .alcohol-banner-right .alcohol-banner-right__nav2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  display: inline-block;
+  padding-top: 40px;
+  margin-left: 40px;
+}
+.alcohol .alcohol-banner .alcohol-banner-right .alcohol-banner-right__nav3 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  display: inline-block;
+  padding-top: 40px;
+  margin-left: 40px;
+}
+.alcohol .alcohol-banner .alcohol-banner-right .alcohol-banner-right__title {
+  font-family: "Liberation Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 73px;
+  line-height: 96px;
+  color: #ffffff;
+  margin-top: 272px;
+  margin-left: 60px;
+  margin-bottom: 34px;
+  vertical-align: top;
+}
+
+.alcohol .alcohol-banner .alcohol-banner-right .alcohol-banner-right__subtitle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #ffffff;
+  margin-left: 60px;
+  margin-top: 34px;
+  margin-bottom: 46px;
+}
+
+.alcohol .alcohol-banner .alcohol-banner-right .alcohol-banner-left__button {
+  border: 1px solid #ffffff;
+  border-radius: 0px;
+  height: 52px;
+  width: 180px;
+  text-align: center;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  line-height: 52px;
+  margin-left: 60px;
+  margin-top: 46px;
+}
