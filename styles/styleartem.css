@@ -1,0 +1,94 @@
+.container {
+  width: 1320px;
+  margin: 0 auto;
+}
+.line {
+  border-bottom: 1px solid #bdbdbd;
+  padding: 59px 0 42px;
+}
+.food {
+  margin: 0 auto;
+  width: 33%;
+  display: inline-block;
+  vertical-align: top;
+}
+.food .food__one {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  margin-bottom: 36px;
+}
+.food .food__img {
+  margin: 0 auto;
+  display: block;
+}
+.ingridiens {
+  text-align: center;
+}
+.ingridiens .ingridiens__one {
+  font-family: "Roboto Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+  text-align: center;
+  color: #000000;
+  margin-top: 104px;
+  margin-bottom: 24px;
+}
+.ingridiens .ingridiens__two {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 82px;
+}
+.bottle {
+  width: 1320px;
+  margin: 0 auto;
+}
+.bottle .bottle-best {
+  margin: 0 auto;
+  width: 33%;
+  display: inline-block;
+}
+.bottle .bottle-best .bottle-best__img {
+  margin: 0 auto 19px;
+  display: block;
+}
+.bottle .bottle-best .bottle-best__title {
+  font-family: "Roboto Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 44px;
+  text-align: center;
+  margin-bottom: 19px;
+}
+.bottle .bottle-best .bottle-best__text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  margin-bottom: 27px;
+}
+.bottle .bottle-best .bottle-best__button {
+  width: 180px;
+  height: 52px;
+  background: #191919;
+  border: 1px solid #191919;
+  border-radius: 0px;
+  color: white;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 140px;
+}
